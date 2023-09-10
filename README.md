@@ -1,7 +1,6 @@
-- 👋 Hi, @Pri-Ved here
-- 👀 I’m a Security Engineer interested in Blockchain technology and Reverse engineering 
-- 🌱 I’m currently learning to code better everyday.
-- 💞️ I’m looking to collaborate on Hyperledger Fabric Smart Contract development activity / Reverse engineering of thick client applications
+- 👋 Hi, @Pri-Ved here. 
+- 🌱 I’m currently learning to code better everyday,Golang and C++ are my programming languages of choice.
+- 💞️ I’m looking to collaborate on developping intresting apps and discussing everything embedded. 
 - 📫 Reach me @priyanka.vedeshwar@gmail.com
 
 <!---
